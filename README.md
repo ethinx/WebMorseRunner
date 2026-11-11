@@ -5,7 +5,9 @@ A small CW contest simulator for the web.
 ## About 
 This is a new written version of Morse Runner as Web-Application.
 
-The app is hosted on GitHub Pages: https://fritzsche.github.io/WebMorseRunner/
+This fork is hosted on GitHub Pages: https://ethinx.github.io/WebMorseRunner/
+
+The upstream app is available at https://fritzsche.github.io/WebMorseRunner/
 
 **Translations:** [Deutsch](README_DE.md) · [日本語](README_JP.md)
 
